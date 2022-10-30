@@ -41,6 +41,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop&color=black)
 
+## Stats
 
 <div align="center">
   <a href="https://github.com/alejuran">
