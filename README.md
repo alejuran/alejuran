@@ -10,7 +10,7 @@
 [![Medium: Alejandro Urán](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&Color=black)](https://medium.com/@alejandrourn)
 
 
-- 🔭 I’m Software Engineer at @Holberton School. 
+- 🔭 I’m Software Developer at @Holberton School. 
 - 🌱 I’m currently learning TypeScript, JavaScript and React
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything, I will gladly assist you.
