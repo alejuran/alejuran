@@ -50,3 +50,5 @@
   
   
   ![Snake animation](https://github.com/alejuran/alejuran/blob/output/github-contribution-grid-snake.svg)
+    
+  ![views](https://komarev.com/ghpvc/?username=alejuran)
